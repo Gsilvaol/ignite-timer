@@ -50,6 +50,10 @@ const BaseInput = styled.input`
 
 export const TaskInput = styled(BaseInput)`
   flex: 1;
+
+  &::-webkit-calendar-picker-indicator {
+    display: none !important;
+  }
 `
 
 export const MinutesAmountInput = styled(BaseInput)`
@@ -86,6 +90,10 @@ export const StartCountdownButton = styled.button`
   border: 0;
   padding: 1rem;
   border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   gap: 0.5rem;
   font-weight: bold;
