@@ -12,7 +12,24 @@
 <br>
 
 <p align="center">
-  <img alt="fundamentos react" src=".github/Home.jpg" width="100%">
+  <img alt="" 
+  src="./.github/Home1.jpg"   
+  width="100%">
+</p>
+<p align="center">
+  <img alt="" 
+  src="./.github/Home2.jpg"   
+  width="100%">
+</p>
+<p align="center">
+  <img alt="" 
+  src="./.github/Histórico1.jpg"   
+  width="100%">
+</p>
+<p align="center">
+  <img alt="" 
+  src="./.github/Histórico2.jpg"   
+  width="100%">
 </p>
 
 ## 🚀 Tecnologias
